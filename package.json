@@ -1,0 +1,27 @@
+{
+  "name": "homatri_chef_mobile",
+  "version": "1.0.0",
+  "description": "Homatri Kitchen — Expo app mirroring /chef",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "@expo-google-fonts/figtree": "^0.4.1",
+    "@expo-google-fonts/fraunces": "^0.4.1",
+    "@react-native-async-storage/async-storage": "^3.1.1",
+    "babel-preset-expo": "~54.0.12",
+    "expo": "~54.0.0",
+    "expo-font": "^57.0.3",
+    "expo-image-picker": "^57.0.15",
+    "expo-status-bar": "~3.0.9",
+    "react": "19.1.0",
+    "react-native": "0.81.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.0"
+  },
+  "private": true
+}

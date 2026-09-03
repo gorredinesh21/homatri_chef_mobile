@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Homatri Kitchen",
+    "slug": "homatri-kitchen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#FBF9F6" },
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.homatri.chef" },
+    "android": { "package": "com.homatri.chef" }
+  }
+}

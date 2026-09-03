@@ -1,6 +1,6 @@
 import { NativeModules, Platform } from "react-native";
 
-const CLOUD_API_BASE_URL = "https://homatri-backend-195132182954.us-central1.run.app";
+const CLOUD_API_BASE_URL = "https://api.homatri.com";
 
 function trimSlash(url) {
   return String(url || "").replace(/\/$/, "");

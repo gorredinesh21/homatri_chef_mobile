@@ -12,12 +12,12 @@
       "distribution": "internal",
       "android": { "buildType": "apk" },
       "env": {
-        "EXPO_PUBLIC_API_BASE_URL": "https://homatri-backend-195132182954.us-central1.run.app"
+        "EXPO_PUBLIC_API_BASE_URL": "https://api.homatri.com"
       }
     },
     "production": {
       "env": {
-        "EXPO_PUBLIC_API_BASE_URL": "https://homatri-backend-195132182954.us-central1.run.app"
+        "EXPO_PUBLIC_API_BASE_URL": "https://api.homatri.com"
       }
     }
   }
